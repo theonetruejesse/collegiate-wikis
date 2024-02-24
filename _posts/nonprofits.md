@@ -3,7 +3,7 @@ title: Starting a Non-Profit Organization (NPO)
 ---
 
 <aside>
-💡 Starting a nonprofit organization can be a rewarding way to give back to your community and make a difference in a cause you feel passionate about. It's also a significant commitment that requires careful planning, time, resources, and understanding of the legal and logistical implications involved. Here's a comprehensive guide to help you navigate through the process of creating a nonprofit organization.
+💡 Starting a nonprofit organization can be a rewarding way to give back to your community and make a difference in a cause you feel passionate about. It's also a significant commitment that requires careful planning, time, resources, and understanding of the legal and logistical implications involved. Here's a comprehensive guide to help you navigate through the process of creating a nonprofit organizations.
 
 </aside>
 
