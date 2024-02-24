@@ -1,2 +1,3 @@
-# collegiate-wikis
-Fuck Notion - We Love SEO
+# Collegiate Wikis
+
+Hello World
