@@ -1,5 +1,6 @@
 ---
-title: Starting a Non-Profit Organization (NPO)
+title: "Starting a Non-Profit Organization (NPO)"
+layout: post
 ---
 
 <aside>
