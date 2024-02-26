@@ -1,6 +1,7 @@
-# Building a Resume
-
-Type: Professional
+---
+title: "Building a Resume"
+layout: post
+---
 
 <aside>
 📌 A resume serves as a professional summary of your educational background, professional experiences, and skills, tailored specifically for the internship or job role you're targeting. The main goal of your resume is to secure an interview. It's important to remember that resumes aren't one-size-fits-all; while this notion offers tips and guidelines, your resume should effectively represent your unique personal brand and tailored to your industry.
