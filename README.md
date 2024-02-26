@@ -1,3 +1,1 @@
-# Collegiate Wikis
-
 Hello World
